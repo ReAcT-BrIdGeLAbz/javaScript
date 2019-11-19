@@ -1,0 +1,10 @@
+[{
+    "BHEL": [{
+        "shares": 10,
+        "price": 800
+    }],
+    "BHARATH": [{
+        "shares": 20,
+        "price": 900
+    }]
+}]

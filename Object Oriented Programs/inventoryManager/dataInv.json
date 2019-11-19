@@ -1,0 +1,49 @@
+[{
+    "rice": [{
+        "name": "swad",
+        "weight": "3",
+        "price": "17"
+    }],
+    "pulses": [{
+        "name": "mk",
+        "weight": 85,
+        "price": 12
+    }, {
+        "name": "peas",
+        "weight": 30,
+        "price": 78
+    }],
+    "wheat": [{
+        "name": "ashirwad",
+        "weight": 80,
+        "price": 52
+    }, {
+        "name": "abd",
+        "weight": 45,
+        "price": 89
+    }],
+    "birla": [{
+        "name": "xyz",
+        "weight": "12",
+        "price": "45"
+    }, {
+        "name": "zyx",
+        "weight": "4",
+        "price": "67"
+    }],
+    "samsung": [{
+        "name": "mobile",
+        "weight": "5",
+        "price": "10"
+    }],
+    "watch": [{
+        "name": "titan",
+        "weight": "2",
+        "price": "23"
+    }],
+    "steel": [{
+        "name": "awt",
+        "weight": "3",
+        "price": "56"
+    }]
+}]

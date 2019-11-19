@@ -1,0 +1,52 @@
+[{
+    "kanaka": [{
+        "companyName": "BHEL",
+        "shares": 6,
+        "amount": "22"
+    }],
+    "aishu": [{
+        "companyName": "BHARATH",
+        "shares": 3,
+        "amount": 170
+    }],
+    "kanki": [{
+        "companyName": "BHEL",
+        "shares": 7,
+        "amount": "78"
+    }],
+    "kusuma": [{
+        "companyName": "BHARATH",
+        "shares": "2",
+        "amount": "23"
+    }],
+    "BALA": [{
+        "companyName": "BHEL",
+        "shares": 3,
+        "amount": "45"
+    }],
+    "SUSH": [{
+        "companyName": "BHEL",
+        "shares": "2",
+        "amount": "56"
+    }],
+    "PRAFUL": [{
+        "companyName": "BHARATH",
+        "shares": "1",
+        "amount": "34"
+    }],
+    "yashu": [{
+        "companyName": "BHARATH",
+        "shares": "1",
+        "amount": "34"
+    }],
+    "xyz": [{
+        "companyName": "BHEL",
+        "shares": "1",
+        "amount": "23"
+    }],
+    "ABC": [{
+        "companyName": "BHEL",
+        "shares": 3,
+        "amount": "34"
+    }]
+}]
